@@ -8,7 +8,8 @@ funcion para restar
 
 ##################################
 
-funcion para multiplicar
+funcion para multiplicar 
+1/0 = error
 
 ##################################
 
