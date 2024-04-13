@@ -1,1 +1,10 @@
 agregar funciones
+
+**suma +**
+
+**resta -**
+
+**multiplicacion x**
+
+**division /**
+
